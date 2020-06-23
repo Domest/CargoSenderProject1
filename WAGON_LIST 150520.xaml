@@ -1,0 +1,935 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataLocalList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocalList>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>52027117</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>52982048</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69400</NetWeight>
+      <GrossWeight>92800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53013553</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53014650</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom xsi:nil="true" />
+      <ShipmentDateTo xsi:nil="true" />
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53018438</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53196986</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П2</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93100</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53729422</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93600</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53730446</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom xsi:nil="true" />
+      <ShipmentDateTo xsi:nil="true" />
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53736625</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53736757</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53744363</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53747473</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53747515</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П2</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>53749370</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>71000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>54024526</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93300</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>54063458</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93000</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>54490008</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>54738638</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93500</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>55021901</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>55114029</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93500</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>55153050</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П2</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93900</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>55539696</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>94000</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>55679864</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93600</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>55758080</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93500</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>56129968</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>57960023</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93300</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>60050630</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>60181955</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>60216009</TCNumber>
+      <WaybillNumber>ЭБ531865</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93900</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>60233251</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П2</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93500</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>60233780</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom xsi:nil="true" />
+      <ShipmentDateTo xsi:nil="true" />
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>60234085</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>60260429</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93700</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>60923786</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93900</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61061982</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93300</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61070777</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61126348</TCNumber>
+      <WaybillNumber>ЭБ531865</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93900</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61155024</TCNumber>
+      <WaybillNumber>ЭБ531865</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>94000</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61184842</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61306809</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>94000</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61339065</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93500</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom xsi:nil="true" />
+      <ShipmentDateTo xsi:nil="true" />
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61414116</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П2</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93400</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61634879</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69000</NetWeight>
+      <GrossWeight>93500</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61670311</TCNumber>
+      <WaybillNumber>ЭБ531865</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>61982260</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62016035</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93300</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62050000</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93300</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62081716</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П2</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93700</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62142773</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93700</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62301262</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93700</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62550702</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>94000</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62593967</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93700</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62594742</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93600</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom xsi:nil="true" />
+      <ShipmentDateTo xsi:nil="true" />
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62696802</TCNumber>
+      <WaybillNumber>ЭБ531865</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П2</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93500</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62837182</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П2</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93600</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>62862230</TCNumber>
+      <WaybillNumber>ЭБ531865</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93500</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>63230973</TCNumber>
+      <WaybillNumber>ЭБ531865</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93700</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>63391312</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>ПЛ1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>63442743</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93350</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>64079643</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>64322928</TCNumber>
+      <WaybillNumber>ЭБ531640</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П2</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>70000</NetWeight>
+      <GrossWeight>93800</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+    <CargoModel>
+      <Id>0</Id>
+      <ShippingDate>2020-05-01T00:00:00</ShippingDate>
+      <TCNumber>64354707</TCNumber>
+      <WaybillNumber>ЭБ531585</WaybillNumber>
+      <Cargo>Чугун передельный</Cargo>
+      <Mark>П1</Mark>
+      <Station>НОВОРОССИЙСК</Station>
+      <NetWeight>69500</NetWeight>
+      <GrossWeight>93700</GrossWeight>
+      <DTNumber>10116030/220420/0000881</DTNumber>
+      <Addressee>Фирма"Lafonte Commerce SA"</Addressee>
+      <ShipmentDateFrom>2020-05-20T00:00:00</ShipmentDateFrom>
+      <ShipmentDateTo>2020-05-25T00:00:00</ShipmentDateTo>
+    </CargoModel>
+  </LocalList>
+</DataLocalList>

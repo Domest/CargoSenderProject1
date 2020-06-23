@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoSenderService", "CargoSenderService.csproj", "{471F75CE-181E-46BC-9C1D-E3B06E8B86E9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B3DDD77C-1676-4372-9DA2-5CEB3135E991} = {B3DDD77C-1676-4372-9DA2-5CEB3135E991}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoSenderLibrary", "..\CargoSenderLibrary\CargoSenderLibrary.csproj", "{B3DDD77C-1676-4372-9DA2-5CEB3135E991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{471F75CE-181E-46BC-9C1D-E3B06E8B86E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471F75CE-181E-46BC-9C1D-E3B06E8B86E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471F75CE-181E-46BC-9C1D-E3B06E8B86E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471F75CE-181E-46BC-9C1D-E3B06E8B86E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DDD77C-1676-4372-9DA2-5CEB3135E991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DDD77C-1676-4372-9DA2-5CEB3135E991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DDD77C-1676-4372-9DA2-5CEB3135E991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DDD77C-1676-4372-9DA2-5CEB3135E991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38387704-8F25-4A1B-8372-4188C9B599B7}
+	EndGlobalSection
+EndGlobal
